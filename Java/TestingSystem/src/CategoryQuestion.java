@@ -1,5 +1,5 @@
 
 public class CategoryQuestion {
-	int ID;
-	String CategoryName;
+	int id;
+	String name;
 }

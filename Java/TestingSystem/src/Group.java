@@ -1,8 +1,8 @@
 import java.util.Date;
 public class Group {
-	int ID;
-	String GroupName;
-	int	CreatorID;
-	Date CreateDate;
+	int id;
+	String name;
+	Account	creator;
+	Date createDate;
 	Account [] participants;
 }

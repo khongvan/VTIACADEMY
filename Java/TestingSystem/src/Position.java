@@ -1,6 +1,6 @@
 
 public class Position {
-		int		ID;
-		String PositionName;
+		int		id;
+		String 	name;
 
 }

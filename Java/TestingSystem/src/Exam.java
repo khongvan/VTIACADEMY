@@ -2,11 +2,11 @@ import java.util.Date;
 
 public class Exam {
 	int id;
-	int	Code;
-	String	 Title;
-	CategoryQuestion Category;
-	int Duration;
-	Account Creator;
-	Date CreateDate;
+	int	code;
+	String	 title;
+	CategoryQuestion category;
+	int duration;
+	Account creator;
+	Date createDate;
 	Question [] questions;
 }

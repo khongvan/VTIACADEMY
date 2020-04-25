@@ -1,11 +1,11 @@
 import java.util.Date;
 public class Account {
-		int		ID;
-		String	Email;
-		String	UserName;
+		int		id;
+		String	email;
+		String	userName;
 		String	 fullName;
-		Department	Deparment;
-		Position	Position;
+		Department	deparment;
+		Position	position;
 		Date	createDate;
 		Group[] groups;
 }

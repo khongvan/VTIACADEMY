@@ -1,6 +1,7 @@
 
 public class Answer {
 	int id;
-	String Content;
+	String content;
+	Question question;
 	boolean isCorrect;
 }

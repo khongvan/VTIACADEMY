@@ -1,11 +1,11 @@
 import java.util.Date;
 public class Question {
 	int id;
-	String Content;
-	CategoryQuestion Category;
-	TypeQuestion Type;
-	Account Creator;
-	Date CreateDate;
+	String content;
+	CategoryQuestion category;
+	TypeQuestion type;
+	Account creator;
+	Date createDate;
 	Exam[] exams;
 	Answer [] answers;
 }

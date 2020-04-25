@@ -1,5 +1,6 @@
 
 public class Department {
-	int		ID; 
-	String	DepartmentName;
+	int		id; 
+	String	name;
+	Account[] employees;
 }
